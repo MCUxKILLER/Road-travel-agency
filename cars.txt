@@ -1,0 +1,4 @@
+Wagonr 2 25
+Swift 1 30
+Baleno 2 35
+Alto 5 16
